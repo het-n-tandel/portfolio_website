@@ -6,10 +6,6 @@ A modern and responsive personal portfolio website built using **HTML5**, **CSS3
 
 🌐 https://hetntandel.vercel.app
 
-## 📂 GitHub Repository
-
-🔗 https://github.com/het-n-tandel/portfolio_website
-
 ---
 
 ## 📌 Features
